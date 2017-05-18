@@ -30,6 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Dapper, Version=1.50.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.1.50.2\lib\net451\Dapper.dll</HintPath>
+    </Reference>
     <Reference Include="MongoDB.Bson, Version=2.4.3.23, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\MongoDB.Bson.2.4.3\lib\net45\MongoDB.Bson.dll</HintPath>
     </Reference>
@@ -63,6 +66,7 @@
     <Compile Include="Repositories\DataConnectionProvider.cs" />
     <Compile Include="Repositories\IMongoRepository.cs" />
     <Compile Include="Repositories\MongoRepository.cs" />
+    <Compile Include="Repositories\SensorRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
