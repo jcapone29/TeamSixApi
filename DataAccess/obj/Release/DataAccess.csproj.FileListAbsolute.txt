@@ -1,0 +1,11 @@
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Release\DataAccess.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Release\DataAccess.pdb
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Release\MongoDB.Bson.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Release\MongoDB.Driver.Core.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Release\MongoDB.Driver.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Release\MongoDB.Bson.xml
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Release\MongoDB.Driver.xml
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Release\MongoDB.Driver.Core.xml
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\obj\Release\DataAccess.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\obj\Release\DataAccess.pdb

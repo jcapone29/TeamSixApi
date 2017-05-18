@@ -1,0 +1,11 @@
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Debug\DataAccess.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Debug\MongoDB.Bson.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Debug\MongoDB.Driver.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Debug\MongoDB.Bson.xml
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Debug\MongoDB.Driver.xml
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\obj\Debug\DataAccess.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\DataAccess\obj\Debug\DataAccess.pdb

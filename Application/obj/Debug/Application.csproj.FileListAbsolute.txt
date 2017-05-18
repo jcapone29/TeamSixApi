@@ -1,0 +1,14 @@
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\bin\Debug\Application.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\bin\Debug\Application.pdb
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\bin\Debug\DataAccess.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\bin\Debug\MongoDB.Driver.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\bin\Debug\MongoDB.Bson.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\bin\Debug\DataAccess.pdb
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\bin\Debug\MongoDB.Driver.xml
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\bin\Debug\MongoDB.Bson.xml
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\obj\Debug\Application.dll
+c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\obj\Debug\Application.pdb
