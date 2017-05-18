@@ -12,3 +12,31 @@ c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Applicatio
 c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
 c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\obj\Debug\Application.dll
 c:\users\jcapone\documents\visual studio 2017\Projects\TeamSealSixApi\Application\obj\Debug\Application.pdb
+C:\Users\jcapone\Desktop\Local\Prototypes\Src\TeamSealSixApi\Application\bin\Debug\Application.dll
+C:\Users\jcapone\Desktop\Local\Prototypes\Src\TeamSealSixApi\Application\bin\Debug\Application.pdb
+C:\Users\jcapone\Desktop\Local\Prototypes\Src\TeamSealSixApi\Application\bin\Debug\DataAccess.dll
+C:\Users\jcapone\Desktop\Local\Prototypes\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Driver.dll
+C:\Users\jcapone\Desktop\Local\Prototypes\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Bson.dll
+C:\Users\jcapone\Desktop\Local\Prototypes\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\jcapone\Desktop\Local\Prototypes\Src\TeamSealSixApi\Application\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jcapone\Desktop\Local\Prototypes\Src\TeamSealSixApi\Application\bin\Debug\DataAccess.pdb
+C:\Users\jcapone\Desktop\Local\Prototypes\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Driver.xml
+C:\Users\jcapone\Desktop\Local\Prototypes\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Bson.xml
+C:\Users\jcapone\Desktop\Local\Prototypes\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\jcapone\Desktop\Local\Prototypes\Src\TeamSealSixApi\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\jcapone\Desktop\Local\Prototypes\Src\TeamSealSixApi\Application\obj\Debug\Application.dll
+C:\Users\jcapone\Desktop\Local\Prototypes\Src\TeamSealSixApi\Application\obj\Debug\Application.pdb
+C:\Users\jcapone\Desktop\Local\Prototypes\TeamSixApi\Src\TeamSealSixApi\Application\bin\Debug\Application.dll
+C:\Users\jcapone\Desktop\Local\Prototypes\TeamSixApi\Src\TeamSealSixApi\Application\bin\Debug\Application.pdb
+C:\Users\jcapone\Desktop\Local\Prototypes\TeamSixApi\Src\TeamSealSixApi\Application\bin\Debug\DataAccess.dll
+C:\Users\jcapone\Desktop\Local\Prototypes\TeamSixApi\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Driver.dll
+C:\Users\jcapone\Desktop\Local\Prototypes\TeamSixApi\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Bson.dll
+C:\Users\jcapone\Desktop\Local\Prototypes\TeamSixApi\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\jcapone\Desktop\Local\Prototypes\TeamSixApi\Src\TeamSealSixApi\Application\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jcapone\Desktop\Local\Prototypes\TeamSixApi\Src\TeamSealSixApi\Application\bin\Debug\DataAccess.pdb
+C:\Users\jcapone\Desktop\Local\Prototypes\TeamSixApi\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Driver.xml
+C:\Users\jcapone\Desktop\Local\Prototypes\TeamSixApi\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Bson.xml
+C:\Users\jcapone\Desktop\Local\Prototypes\TeamSixApi\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\jcapone\Desktop\Local\Prototypes\TeamSixApi\Src\TeamSealSixApi\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\jcapone\Desktop\Local\Prototypes\TeamSixApi\Src\TeamSealSixApi\Application\obj\Debug\Application.dll
+C:\Users\jcapone\Desktop\Local\Prototypes\TeamSixApi\Src\TeamSealSixApi\Application\obj\Debug\Application.pdb
