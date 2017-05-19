@@ -59,4 +59,5 @@ C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\DataAc
 C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\DataAccess\bin\Debug\MongoDB.Driver.Core.xml
 C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\DataAccess\obj\Debug\DataAccess.dll
 C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\DataAccess\obj\Debug\DataAccess.pdb
-D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\bin\Debug\Newtonsoft.Json.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\bin\Debug\Newtonsoft.Json.xml

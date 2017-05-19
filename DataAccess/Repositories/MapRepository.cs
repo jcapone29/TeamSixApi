@@ -32,5 +32,23 @@ namespace DataAccess.Repositories
             }
             return results;
         }
+
+
+        public IEnumerable<LightModel> GetLightModels()
+        {
+            IEnumerable<LightModel> results;
+            using (IDbConnection db = new SqlConnection(_connectionString))
+
+            {
+
+                string sqlQuery = @"SELECT * FROM tbl_light";
+
+                results = db.Query<LightModel>(sqlQuery).ToList();
+
+
+
+            }
+            return results;
+        }
     }
 }

@@ -33,13 +33,60 @@ namespace DataAccess.Integration.Tests
             {
                 var sensor = new Sensor
                 {
-                    SensorID = "Sensor1",
+                    SensorID = "photoresistor",
                     TimeStamp = DateTime.UtcNow,
-                    Message = "Test insert statement"
+                    Message = "{'reading': 143, 'createdAt': 1495145029}"
 
                 };
 
                 _sensorRepository.Save(sensor);
+                
+            }
+            catch (Exception exception)
+            {
+                expectedException = exception;
+            }
+            Assert.IsNull(expectedException);
+        }
+        [TestMethod]
+        public void GivenAnCarStopEventRoutesTableShouldHaveValues()
+        {
+            Exception expectedException = null;
+            try
+            {
+                var sensor = new Sensor
+                {
+                    SensorID = "car-stop",
+                    TimeStamp = DateTime.UtcNow,
+                    Message = "{createdAt': 1495145029}"
+
+                };
+
+                _sensorRepository.Save(sensor);
+
+            }
+            catch (Exception exception)
+            {
+                expectedException = exception;
+            }
+            Assert.IsNull(expectedException);
+        }
+        [TestMethod]
+        public void GivenAnPhotoEventTableLightShouldHaveValue()
+        {
+            Exception expectedException = null;
+            try
+            {
+                var sensor = new Sensor
+                {
+                    SensorID = "photoresistor",
+                    TimeStamp = DateTime.UtcNow,
+                    Message = "{'reading': 74, 'createdAt': 1495156055}"
+
+                };
+
+                _sensorRepository.Save(sensor);
+
             }
             catch (Exception exception)
             {

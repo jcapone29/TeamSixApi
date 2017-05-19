@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Dapper;
 using DataAccess.Entities;
+using Newtonsoft.Json;
 
 namespace DataAccess.Repositories
 {
@@ -43,6 +44,47 @@ namespace DataAccess.Repositories
                 db.Execute(sqlQuery, new { sensor.TimeStamp, sensor.SensorID, sensor.Message });
 
 
+
+            }
+            if (sensor.SensorID == "photoresistor")
+            {
+                var result = JsonConvert.DeserializeObject<PhotoSensor>(sensor.Message);
+                if (result.reading < 100)
+                {
+                    SaveLightCoordinates(sensor);
+                }
+            }
+            if (sensor.SensorID == "car-stop")
+            {
+                SaveLRoute(sensor);
+            }
+        }
+
+        private void SaveLightCoordinates(Sensor sensor)
+        {
+            using (var connection = new SqlConnection(_connectionString))
+            {
+                var parameters = new DynamicParameters();
+                parameters.Add("@TimeStamp",sensor.TimeStamp);
+                parameters.Add("@SensorID",sensor.SensorID);
+                parameters.Add("@Message",sensor.Message);
+
+                connection.Query<Sensor>("pr_lightCordinates", parameters,
+                    commandType: CommandType.StoredProcedure);
+                
+            }
+        }
+        private void SaveLRoute(Sensor sensor)
+        {
+            using (var connection = new SqlConnection(_connectionString))
+            {
+                var parameters = new DynamicParameters();
+                parameters.Add("@time", sensor.TimeStamp);
+                
+                
+
+                connection.Query<Sensor>("pr_insert_route", parameters,
+                    commandType: CommandType.StoredProcedure);
 
             }
         }

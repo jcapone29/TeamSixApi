@@ -145,3 +145,5 @@ C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bi
 C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\obj\Debug\Hub.csprojResolveAssemblyReference.cache
 C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\obj\Debug\Hub.dll
 C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\obj\Debug\Hub.pdb
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Hub\bin\Debug\Dapper.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Hub\bin\Debug\Dapper.xml

@@ -14,13 +14,21 @@ namespace TeamSealSixApi.Controllers
         {
             _mapRepository = new MapRepository(ConfigurationManager.ConnectionStrings["TheDump"].ConnectionString);
         }
-
+        [Route("coordinates")]
         public string Get()
         {
             var mapCoordinates = _mapRepository.GetMapModels();
             return new JavaScriptSerializer().Serialize(mapCoordinates);
         }
 
-        
+        [Route("light")]
+        [HttpGet]
+        public string GetLights()
+        {
+            var mapCoordinates = _mapRepository.GetLightModels();
+            return new JavaScriptSerializer().Serialize(mapCoordinates);
+        }
+
+
     }
 }
