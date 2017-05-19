@@ -60,11 +60,13 @@
     <Compile Include="Entities\EntityBase.cs" />
     <Compile Include="Entities\HubEntity.cs" />
     <Compile Include="Entities\IHub.cs" />
+    <Compile Include="Entities\MapModel.cs" />
     <Compile Include="Entities\Sensor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\CarRepository.cs" />
     <Compile Include="Repositories\DataConnectionProvider.cs" />
     <Compile Include="Repositories\IMongoRepository.cs" />
+    <Compile Include="Repositories\MapRepository.cs" />
     <Compile Include="Repositories\MongoRepository.cs" />
     <Compile Include="Repositories\SensorRepository.cs" />
   </ItemGroup>
