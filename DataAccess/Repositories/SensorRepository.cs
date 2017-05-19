@@ -15,9 +15,9 @@ namespace DataAccess.Repositories
     {
         private readonly string _connectionString;
 
-        public SensorRepository(string connectionString)
+        public SensorRepository()
         {
-            _connectionString = connectionString;
+            _connectionString = ConfigurationManager.ConnectionStrings["TheDump"].ConnectionString;
         }
 
         public IEnumerable<Sensor> GetSensorsById(string SensorID)

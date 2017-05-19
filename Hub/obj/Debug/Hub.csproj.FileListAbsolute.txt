@@ -114,3 +114,34 @@ D:\work\Genscape\TechSummit_2017\TeamSixApi\Hub\bin\Debug\MongoDB.Driver.Core.xm
 D:\work\Genscape\TechSummit_2017\TeamSixApi\Hub\obj\Debug\Hub.csprojResolveAssemblyReference.cache
 D:\work\Genscape\TechSummit_2017\TeamSixApi\Hub\obj\Debug\Hub.dll
 D:\work\Genscape\TechSummit_2017\TeamSixApi\Hub\obj\Debug\Hub.pdb
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Hub.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Hub.pdb
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Application.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\DataAccess.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Microsoft.Owin.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Owin.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\MongoDB.Driver.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\MongoDB.Bson.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Dapper.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Application.pdb
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\DataAccess.pdb
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Microsoft.Owin.xml
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\MongoDB.Driver.xml
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\MongoDB.Bson.xml
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\bin\Debug\Dapper.xml
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\obj\Debug\Hub.csprojResolveAssemblyReference.cache
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\obj\Debug\Hub.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Hub\obj\Debug\Hub.pdb

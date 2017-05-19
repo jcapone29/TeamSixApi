@@ -15,7 +15,7 @@ namespace DataAccess.Integration.Tests
         public SensorRepositoryFixture()
         {
             _connectionString = ConfigurationManager.ConnectionStrings["TheDump"].ConnectionString;
-            _sensorRepository = new SensorRepository(_connectionString);
+            _sensorRepository = new SensorRepository();
 
         }
         [TestMethod]

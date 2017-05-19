@@ -5,36 +5,37 @@ using System.Text;
 using System.Threading.Tasks;
 using DataAccess.Repositories;
 using DataAccess.Entities;
+using System.Net;
 
 namespace Application
 {
     public class CarService
     {
-        private readonly CarRepository _carRepository;
+        private readonly SensorRepository _sensorRepository;
         public CarService()
         {
-            _carRepository = new CarRepository();
+            _sensorRepository = new SensorRepository();
         }
 
 
-        public async Task<CarTest> GetTest()
+        public async Task<IEnumerable<Sensor>> GetSensorsById(string sensorId)
         {
-            return new CarTest
+            return _sensorRepository.GetSensorsById(sensorId);
+        }
+        public async Task<HttpStatusCode> PostSensorsById(Sensor sensor)
+        {
+            try
             {
-                Ids = 1,
-                Message = "Test Message"
-            };
-        }
-        public async Task PostTest(CarTest carTest)
-        {
-
-        }
-
-        public async Task HandleCarSensorMessage(HubEntity<Sensor> message)
-        {
-
-            await _carRepository.PostSensorMessage(message.Entity.First());
+                _sensorRepository.Save(sensor);               
+            }
+            catch (Exception ex)
+            {
+                return HttpStatusCode.BadRequest;
+            }
+            return HttpStatusCode.OK;
         }
     }
 }
+
+    
 

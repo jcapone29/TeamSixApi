@@ -1,2 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters />
+<parameters>
+  <parameter name="TheDump-Web.config Connection String" description="TheDump Connection String used in web.config by the application to access the database." defaultValue="Server=team6db.database.windows.net;initial catalog=team6db;User ID=jojo;Password=B0oY3aHwewin" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jcapone\\Documents\\Visual\ Studio\ 2017\\Projects\\Src\\TeamSealSixApi\\TeamSealSixApi\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='TheDump']/@connectionString" />
+  </parameter>
+</parameters>

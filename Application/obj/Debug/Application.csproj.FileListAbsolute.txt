@@ -56,3 +56,19 @@ D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\obj\Debug\Application.dl
 D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\obj\Debug\Application.pdb
 D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Debug\Dapper.dll
 D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Debug\Dapper.xml
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\bin\Debug\Application.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\bin\Debug\Application.pdb
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\bin\Debug\DataAccess.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Driver.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Bson.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\bin\Debug\Dapper.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\bin\Debug\DataAccess.pdb
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Driver.xml
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Bson.xml
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\bin\Debug\Dapper.xml
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\obj\Debug\Application.dll
+C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\obj\Debug\Application.pdb

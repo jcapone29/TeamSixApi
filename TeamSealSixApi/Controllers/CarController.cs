@@ -21,19 +21,17 @@ namespace TeamSealSixApi.Controllers
             _carService = new CarService();
         }
 
-        [Route("test")]
-        public async Task<IHttpActionResult> GetTest()
+        [Route("sensor/{id}")]
+        public async Task<IHttpActionResult> GetSensorsByIds(string id)
         {
-            return Ok(await _carService.GetTest());
-
+            return Ok(await _carService.GetSensorsById(id));
         }
 
-        //[HttpPost]
-        //[Route("test/{id}/{message}")]
-        //public async Task<IHttpActionResult> PostTest(CarTest cartest)
-        //{
-        //    return Ok(await _carService.PostTest(cartest));
-
-        //}
+        [HttpPost]
+        [Route("sensor")]
+        public async Task<IHttpActionResult> PostSensorsById(Sensor payload)
+        {
+            return Ok(await _carService.PostSensorsById(payload));
+        }
     }
 }
