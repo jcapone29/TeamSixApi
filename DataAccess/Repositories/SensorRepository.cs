@@ -58,6 +58,15 @@ namespace DataAccess.Repositories
             {
                 SaveLRoute(sensor);
             }
+            if (sensor.SensorID == "sonar-left")
+            {
+                SaveRouteLeft(sensor);
+            }
+            if (sensor.SensorID == "sonar-right")
+            {
+                SaveRouteRight(sensor);
+            }
+            
         }
 
         private void SaveLightCoordinates(Sensor sensor)
@@ -84,6 +93,35 @@ namespace DataAccess.Repositories
                 
 
                 connection.Query<Sensor>("pr_insert_route", parameters,
+                    commandType: CommandType.StoredProcedure);
+
+            }
+        }
+
+        private void SaveRouteLeft(Sensor sensor)
+        {
+            using (var connection = new SqlConnection(_connectionString))
+            {
+                var parameters = new DynamicParameters();
+                parameters.Add("@TimeStamp", sensor.TimeStamp);
+                parameters.Add("@SensorID", sensor.SensorID);
+                parameters.Add("@Message", sensor.Message);
+
+                connection.Query<Sensor>("pr_insert_object_left", parameters,
+                    commandType: CommandType.StoredProcedure);
+
+            }
+        }
+        private void SaveRouteRight(Sensor sensor)
+        {
+            using (var connection = new SqlConnection(_connectionString))
+            {
+                var parameters = new DynamicParameters();
+                parameters.Add("@TimeStamp", sensor.TimeStamp);
+                parameters.Add("@SensorID", sensor.SensorID);
+                parameters.Add("@Message", sensor.Message);
+
+                connection.Query<Sensor>("pr_insert_object_right", parameters,
                     commandType: CommandType.StoredProcedure);
 
             }

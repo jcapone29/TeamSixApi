@@ -28,3 +28,21 @@ C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Applic
 C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\obj\Release\Application.csprojResolveAssemblyReference.cache
 C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\obj\Release\Application.dll
 C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\Application\obj\Release\Application.pdb
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Release\Application.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Release\Application.pdb
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Release\DataAccess.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Release\MongoDB.Driver.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Release\Dapper.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Release\MongoDB.Bson.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Release\MongoDB.Driver.Core.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Release\Newtonsoft.Json.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Release\DataAccess.pdb
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Release\MongoDB.Driver.xml
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Release\Dapper.xml
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Release\MongoDB.Bson.xml
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Release\MongoDB.Driver.Core.xml
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\bin\Release\Newtonsoft.Json.xml
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\obj\Release\Application.csprojResolveAssemblyReference.cache
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\obj\Release\Application.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\Application\obj\Release\Application.pdb

@@ -94,5 +94,51 @@ namespace DataAccess.Integration.Tests
             }
             Assert.IsNull(expectedException);
         }
+        [TestMethod]
+        public void GivenAnSonarLeftEventTableLObjectShouldHaveValue()
+        {
+            Exception expectedException = null;
+            try
+            {
+                var sensor = new Sensor
+                {
+                    SensorID = "sonar-left",
+                    TimeStamp = DateTime.UtcNow,
+                    Message = "{'distance': 532.7942371368408, 'createdAt': 1495156055}"
+
+                };
+
+                _sensorRepository.Save(sensor);
+
+            }
+            catch (Exception exception)
+            {
+                expectedException = exception;
+            }
+            Assert.IsNull(expectedException);
+        }
+        [TestMethod]
+        public void GivenAnSonarRightEventTableLObjectShouldHaveValue()
+        {
+            Exception expectedException = null;
+            try
+            {
+                var sensor = new Sensor
+                {
+                    SensorID = "sonar-rigth",
+                    TimeStamp = DateTime.UtcNow,
+                    Message = "{'distance': 532.7942371368408, 'createdAt': 1495156055}"
+
+                };
+
+                _sensorRepository.Save(sensor);
+
+            }
+            catch (Exception exception)
+            {
+                expectedException = exception;
+            }
+            Assert.IsNull(expectedException);
+        }
     }
 }

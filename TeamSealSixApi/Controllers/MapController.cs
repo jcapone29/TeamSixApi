@@ -28,6 +28,13 @@ namespace TeamSealSixApi.Controllers
             var mapCoordinates = _mapRepository.GetLightModels();
             return new JavaScriptSerializer().Serialize(mapCoordinates);
         }
+        [Route("object")]
+        [HttpGet]
+        public string GetObject()
+        {
+            var mapCoordinates = _mapRepository.GetObjectTbl();
+            return new JavaScriptSerializer().Serialize(mapCoordinates);
+        }
 
 
     }

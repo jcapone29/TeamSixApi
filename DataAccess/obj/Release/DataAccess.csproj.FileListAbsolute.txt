@@ -23,3 +23,18 @@ C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\DataAc
 C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\DataAccess\obj\Release\DataAccess.csprojResolveAssemblyReference.cache
 C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\DataAccess\obj\Release\DataAccess.dll
 C:\Users\jcapone\Documents\Visual Studio 2017\Projects\Src\TeamSealSixApi\DataAccess\obj\Release\DataAccess.pdb
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\bin\Release\DataAccess.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\bin\Release\DataAccess.pdb
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\bin\Release\Dapper.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\bin\Release\MongoDB.Bson.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\bin\Release\MongoDB.Driver.Core.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\bin\Release\MongoDB.Driver.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\bin\Release\Newtonsoft.Json.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\bin\Release\Dapper.xml
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\bin\Release\MongoDB.Bson.xml
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\bin\Release\MongoDB.Driver.xml
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\bin\Release\MongoDB.Driver.Core.xml
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\bin\Release\Newtonsoft.Json.xml
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\obj\Release\DataAccess.dll
+D:\work\Genscape\TechSummit_2017\TeamSixApi\DataAccess\obj\Release\DataAccess.pdb
